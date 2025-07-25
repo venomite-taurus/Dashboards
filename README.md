@@ -48,7 +48,4 @@ This repository contains an interactive **Power BI dashboard** built to analyze 
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
----
-
-> Built with ❤️ by [Shubham Pandey](https://github.com/Shubh-chunmun)
 
