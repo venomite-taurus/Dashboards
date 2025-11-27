@@ -2,6 +2,9 @@
 
 This repository contains an interactive **Power BI dashboard** built to analyze Blinkit's sales performance across various outlets, product categories, and fat content. The dashboard helps stakeholders derive actionable insights and make informed business decisions.
 
+<img width="1297" height="734" alt="Screenshot 2025-11-27 201128" src="https://github.com/user-attachments/assets/4ed66e89-7b94-4b1b-b6fb-aa6667ddff5f" />
+
+
 ## 📊 Features
 
 - **Outlet-based Analysis**: Visualize sales performance across different outlet types (e.g., physical store, online).
