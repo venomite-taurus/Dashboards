@@ -3,13 +3,12 @@
 A fully interactive **Power BI dashboard** built using real-world style data from a veterinary clinic.  
 This project transforms raw Excel data into meaningful insights about **pets, owners, visit patterns, services, and customer communication behavior**.
 
-
-
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](./Dashboard.png)  
-*(Replace this image with your actual screenshot file name)*
+
+<img width="1318" height="735" alt="Screenshot 2025-11-27 204745" src="https://github.com/user-attachments/assets/c0599da6-6c58-4955-aca4-3a2f5abc2a73" />
+
 
 ---
 
